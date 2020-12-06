@@ -1,3 +1,3 @@
 ### Languages and Tools:
 
-![Languages and Tools](assets/background.png)
+![Languages and Tools](assets/bg.png)

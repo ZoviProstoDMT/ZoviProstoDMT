@@ -1,3 +1,3 @@
 ### Languages and Tools:
 
-![Languages and Tools](assets/bg.png)
+![Languages and Tools](assets/bckgrnd.png)

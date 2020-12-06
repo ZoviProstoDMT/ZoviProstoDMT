@@ -1,8 +1,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" height="36px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" />
-<img align="left" alt="Spring framework" height="30px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
-<img align="left" alt="Vaadin" height="30px" src="https://cdn2.hubspot.net/hubfs/1840687/Pages/trademark/vaadin-logo-full.svg" />
+<img align="left" alt="Spring framework" width="30px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+<img align="left" alt="Vaadin" width="36px" src="https://cdn2.hubspot.net/hubfs/1840687/Pages/trademark/vaadin-logo-full.svg" />
 <img align="left" alt="HTML5" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Hibernate" height="36px" src="https://hibernate.org/images/hibernate-logo.svg" />
